@@ -11,6 +11,11 @@
 
 - 🌱 I’m currently exploring **Blockchain space.**
 
+- Audit Experience:
+  1. [Sherlock](https://audits.sherlock.xyz/watson/FalseGenius)
+  2. [Cyfrin](https://profiles.cyfrin.io/u/falsegenius)
+  3. [Code4rena](https://code4rena.com/@FalseGenius)
+
 - 👨‍💻 All of my projects are available at [https://portfoliov2-gold.vercel.app/project](https://portfoliov2-gold.vercel.app/project)
 
 - 📫 How to reach me **billionairejackal@gmail.com**
